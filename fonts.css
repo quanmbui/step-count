@@ -1,0 +1,36 @@
+
+@font-face {
+  font-family: 'Calendas Plus';
+  font-weight: 300;
+  font-style: normal;
+  src: url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-300.eot');
+  src: url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-300.eot?#iefix') format('embedded-opentype'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-300.woff2') format('woff2'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-300.woff') format('woff'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-300.ttf') format('truetype'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-300.svg#Calendas Plus') format('svg');
+}
+
+@font-face {
+  font-family: 'Calendas Plus';
+  font-weight: 400;
+  font-style: normal;
+  src: url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-400.eot');
+  src: url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-400.eot?#iefix') format('embedded-opentype'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-400.woff2') format('woff2'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-400.woff') format('woff'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-400.ttf') format('truetype'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-400.svg#Calendas Plus') format('svg');
+}
+
+@font-face {
+  font-family: 'Calendas Plus';
+  font-weight: 700;
+  font-style: normal;
+  src: url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-700.eot');
+  src: url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-700.eot?#iefix') format('embedded-opentype'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-700.woff2') format('woff2'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-700.woff') format('woff'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-700.ttf') format('truetype'),
+       url('//d2wwthy2zmzhx.cloudfront.net/fonts/calendas-plus-700.svg#Calendas Plus') format('svg');
+}
